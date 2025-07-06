@@ -5,6 +5,18 @@
 
 
 
+## 2025 CodeEngn Conference 21
+
+| Speaker               | Title                                                                                                          |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 천재권, 윤주원 | IaC와 함께하는 자동화 및 보안 |
+| 이창선 | 사이버 우주보안은 어떻게? |
+| 황경환 | Windows kernel Driver Hacking with HEVD |
+| 천호진 | 북한 APT 그룹 공격 사례 분석 |
+| 유선동 | Embedded Hacking to Red Teaming |
+
+
+
 ## 2024 CodeEngn Conference 20
 
 | Speaker               | Title                                                                                                          |
